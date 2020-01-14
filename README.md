@@ -8,13 +8,13 @@ Arrays is one of the most basic and widely data structure in any programming lan
 
 For any Array created, you can perform **four operations on it which are Access, Insertion, Deletion, and Search**. 
 
-Another interesting thing about Arrays - It has length (fixed when it is created) and index. Let's look at image below and example to understand what I meant by length and index. 
+Another interesting thing about Arrays - It has length (fixed when it is created) and index. Let's look at image below and example 1.0 to understand what I meant by length and index. 
 
 ![Array Sample Image](https://docs.oracle.com/javase/tutorial/figures/java/objects-tenElementArray.gif "Array sample image")
 
 Image credit: [Oracle](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html) 
 
-Example:
+Example 1.0:
 
 `var myArray = [3, 8, 4, 9, 7, 6];`
 
@@ -25,7 +25,7 @@ If you count the elements inside myArray, it has 6 elements. Which means, it has
 
 You can access an Array by specifying the index number you want to access such as *`arrayName[index]`*.
 
-for example:
+Example 1.1:
 
 ```
 var myArray = [3, 8, 4, 9, 7, 6];
