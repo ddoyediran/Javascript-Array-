@@ -23,7 +23,7 @@ If you count the elements inside myArray, it has 6 elements. Which means, it has
 
 # Access 
 
-You can access an Array by specifying the index number you want to access such as *`arrayName[index]`*. Let's take a look at Example 1.1 below
+You can access an Array or element(s) in array by specifying the index number of the array you want to access such as *`arrayName[index]`*. Let's take a look at Example 1.1 below
 
 ##### Example 1.1:
 
