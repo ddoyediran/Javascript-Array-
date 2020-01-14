@@ -12,6 +12,8 @@ Another interesting thing about Arrays - It has length (fixed when it is created
 
 ![Array Sample Image](https://docs.oracle.com/javase/tutorial/figures/java/objects-tenElementArray.gif "Array sample image")
 
+Image credit: [Oracle](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html) 
+
 Example:
 
 `var myArray = [3, 8, 4, 9, 7, 6];`
