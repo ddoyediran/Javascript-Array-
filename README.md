@@ -2,7 +2,7 @@
 Arrays in Data Structures and Algorithms with JavaScript - There are lot of resources out there that covers Arrays in JavaScript but only few explain the topic for the purpose of Data Structures and Algorithms. In this explanation, I will scratch the surface of the topic to give you a beginners guide to understanding Arrays in Data Structures and Algorithms with JavaScript. Maybe, this will prompt a short book on Data Structures and Algorithms with Javascript. 
 You are free to ask question and as well contribute to make it better. 
 # Introduction to Arrays in JavaScript
-Arrays is one of the most basic and widely data structure in any programming language. It can as well be called Arrays Data Structure. 
+Arrays is one of the most powerful and widely use data structure concept in any programming language. It can as well be called Arrays Data Structure. 
 
 **Arrays are use to store or holds a fixed number of values of a single type**. 
 
