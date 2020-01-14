@@ -12,9 +12,9 @@ Another interesting thing about Arrays - It has length (fixed when it is created
 
 ![Array Sample Image](https://docs.oracle.com/javase/tutorial/figures/java/objects-tenElementArray.gif "Array sample image")
 
-Image credit: [Oracle](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html) 
+##### Figure 1.0: An array of 10 elements. Image credit: [Oracle](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html) 
 
-Example 1.0:
+##### Example 1.0:
 
 `var myArray = [3, 8, 4, 9, 7, 6];`
 
@@ -23,9 +23,9 @@ If you count the elements inside myArray, it has 6 elements. Which means, it has
 
 # Access 
 
-You can access an Array by specifying the index number you want to access such as *`arrayName[index]`*.
+You can access an Array by specifying the index number you want to access such as *`arrayName[index]`*. Let's take a look at Example 1.1 below
 
-Example 1.1:
+##### Example 1.1:
 
 ```
 var myArray = [3, 8, 4, 9, 7, 6];
