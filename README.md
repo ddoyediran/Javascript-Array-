@@ -12,6 +12,8 @@ Another interesting thing about Arrays - It has length (fixed when it is created
 
 ![Array Sample Image](https://docs.oracle.com/javase/tutorial/figures/java/objects-tenElementArray.gif "Array sample image")
 
+Example:
+
 `var myArray = [3, 8, 4, 9, 7, 6];`
 
 If you count the elements inside myArray, it has 6 elements. Which means, it has a length of 6 and index of 5 (note: counting index always start from 0).
