@@ -4,9 +4,9 @@ You are free to ask question and as well contribute to make it better.
 # Introduction to Arrays in JavaScript
 Arrays is one of the most basic and widely data structure in any programming language. It can as well be called Arrays Data Structure. 
 
-Arrays are use to store or holds a fixed number of values of a single type. 
+**Arrays are use to store or holds a fixed number of values of a single type**. 
 
-For any Array created, you can perform four operations on it which are Access, Insertion, Deletion, and Search. 
+For any Array created, you can perform **four operations on it which are Access, Insertion, Deletion, and Search**. 
 
 Another interesting thing about Arrays - It has length (fixed when it is created) and index. Let's look at image below and example to understand what I meant by length and index. 
 
@@ -19,7 +19,7 @@ Example:
 If you count the elements inside myArray, it has 6 elements. Which means, it has a length of 6 and index of 5 (note: counting index always start from 0).
 
 
-### Access 
+# Access 
 
 You can access an Array by specifying the index number you want to access. 
 
