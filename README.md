@@ -34,4 +34,4 @@ myArray[4]; //will returns 7
 
 ```
 
-Accessing array is that simple. :)
+Accessing array is that simple. 😄
