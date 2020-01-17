@@ -37,3 +37,8 @@ myArray[4]; //will returns 7
 ```
 
 Accessing array is that simple. 😄
+
+##### P.S: For the purpose of data structure and algorithms.
+I need to mention that the time complexity of accessing an array at a specified index only takes constant time O(1). Simply put, the access method uses the index to get the value directly from the address in memory. Don't worry about how we got this, I will cover Big O Notation (Time Complexity and Space) in another topic soon and put a link here.
+
+
