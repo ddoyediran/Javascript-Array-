@@ -43,5 +43,16 @@ I need to mention that the time complexity of accessing an array at a specified 
 
 
 # Insertion
-As the name implies, it means to insert an element inside array data structure. To do this in JavaScript we *`.push(element)`* method.
+As the name implies, it is use to insert an element inside array data structure. To do this in JavaScript we *`.push(element)`* method.
 The *`.push(element)`* adds the element at the end of the array. The time complexity also takes constant time O(1). 
+
+##### Example 1.2:
+
+```
+var myArray = [3, 8, 4, 9, 7, 6];
+
+myArray.push(9); //myArray will return [3, 8, 4, 9, 7, 6, 9].
+
+myArray.push(4); //myArray will return [3, 8, 4, 9, 7, 6, 9, 4]
+
+```
