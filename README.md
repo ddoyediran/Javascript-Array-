@@ -1,5 +1,5 @@
 # Javascript Arrays
-Arrays in Data Structures and Algorithms with JavaScript - There are lot of resources out there that covers Arrays in JavaScript but only few explain the topic for the purpose of Data Structures and Algorithms. In this explanation, I will scratch the surface of the topic to give you a beginners guide to understanding Arrays in Data Structures and Algorithms with JavaScript. Maybe, this will prompt a short book on Data Structures and Algorithms with Javascript. 
+Arrays in Data Structures and Algorithms with JavaScript - There are lot of resources out there that covers Arrays in JavaScript but only few explain the topic for the purpose of Data Structures and Algorithms. In this explanation, I will scratch the surface of the topic to give you a great understanding of Arrays in Data Structures and Algorithms with JavaScript. Maybe, this will prompt a short book on Data Structures and Algorithms with Javascript. 
 You are free to ask question and as well contribute to make it better. 
 # Introduction to Arrays in JavaScript
 Arrays is one of the most powerful and widely use data structure concept in any programming language. It can as well be called Arrays Data Structure. 
@@ -56,3 +56,6 @@ myArray.push(9); //myArray will return [3, 8, 4, 9, 7, 6, 9].
 myArray.push(4); //myArray will return [3, 8, 4, 9, 7, 6, 9, 4]
 
 ```
+
+# Deletion
+Deleting element(s) is an interesting operations in Arrays. It simply means to remove element. There are two methods to it, the first method is used to remove the first element *`.shift()`* and the second method is used to remove the last element *`.pop()`*
