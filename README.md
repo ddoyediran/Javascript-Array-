@@ -42,3 +42,6 @@ Accessing array is that simple. 😄
 I need to mention that the time complexity of accessing an array at a specified index only takes constant time O(1). Simply put, the access method uses the index to get the value directly from the address in memory. Don't worry about how we got this, I will cover Big O Notation (Time Complexity and Space) in another topic soon and put a link here.
 
 
+# Insertion
+As the name implies, it means to insert an element inside array data structure. To do this in JavaScript we *`.push(element)`* method.
+The *`.push(element)`* adds the element at the end of the array. The time complexity also takes constant time O(1). 
