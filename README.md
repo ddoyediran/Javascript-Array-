@@ -58,4 +58,4 @@ myArray.push(4); //myArray will return [3, 8, 4, 9, 7, 6, 9, 4]
 ```
 
 # Deletion
-Deleting element(s) is an interesting operations in Arrays. It simply means to remove element. There are two methods to it, the first method is used to remove the first element *`.shift()`* and the second method is used to remove the last element *`.pop()`*
+Deleting element(s) is an interesting operations in Arrays. It simply means to remove element. There are two methods to it, the first method *`.shift()`* is used to remove the first element and the second method *`.pop()`* is used to remove the last element.
