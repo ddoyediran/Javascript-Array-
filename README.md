@@ -69,3 +69,4 @@ myArray.pop(); //it will print/ remove 6 and myArray will return [3, 8, 4, 9, 7]
 myArray.shift(); //it will print/ remove 3 and myArray will return [8, 4, 9, 7]
 
 ```
+Also, the time complexity of *`.shift()`* and *`.pop()`* is constant time O(1). 
