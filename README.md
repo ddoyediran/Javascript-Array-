@@ -51,11 +51,21 @@ The *`.push(element)`* adds the element at the end of the array. The time comple
 ```
 var myArray = [3, 8, 4, 9, 7, 6];
 
-myArray.push(9); //myArray will return [3, 8, 4, 9, 7, 6, 9].
+myArray.push(9); //it will add 9 and myArray will return [3, 8, 4, 9, 7, 6, 9].
 
-myArray.push(4); //myArray will return [3, 8, 4, 9, 7, 6, 9, 4]
+myArray.push(4); //it will add 4 and myArray will return [3, 8, 4, 9, 7, 6, 9, 4]
 
 ```
 
 # Deletion
 Deleting element(s) is an interesting operations in Arrays. It simply means to remove element. There are two methods to it, the first method *`.shift()`* is used to remove the first element and the second method *`.pop()`* is used to remove the last element.
+
+##### Example 1.3:
+```
+var myArray = [3, 8, 4, 9, 7, 6];
+
+myArray.pop(); //it will print/ remove 6 and myArray will return [3, 8, 4, 9, 7].
+
+myArray.shift(); //it will print/ remove 3 and myArray will return [8, 4, 9, 7]
+
+```
