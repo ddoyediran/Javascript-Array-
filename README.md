@@ -73,4 +73,4 @@ Also, the time complexity of *`.shift()`* and *`.pop()`* is constant time O(1).
 
 # Search or Iteration
 Search or popularly known as Iteration. Iteration is an interest process. It is a simple way of accessing each element present in the array data structure. 
-Since we are iterating through an nth element, all Iteration method has a time complexity of O(n).
+Since we are iterating through an nth element, all Iteration method has a time complexity of n that is O(n).
