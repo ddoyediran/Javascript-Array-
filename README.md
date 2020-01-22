@@ -70,3 +70,6 @@ myArray.shift(); //it will print/ remove 3 and myArray will return [8, 4, 9, 7]
 
 ```
 Also, the time complexity of *`.shift()`* and *`.pop()`* is constant time O(1). 
+
+# Search or Iteration
+Search or popularly known as Iteration. Iteration is an interest process. It is a simple way of accessing each element present in the array data structure. 
