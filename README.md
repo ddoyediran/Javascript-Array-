@@ -32,7 +32,7 @@ var myArray = [3, 8, 4, 9, 7, 6];
 
 myArray[2]; //will return 4.
 
-myArray[4]; //will returns 7
+myArray[4]; //will return 7
 
 ```
 
