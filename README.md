@@ -30,7 +30,7 @@ You can access an Array or element(s) in array by specifying the index number of
 ```
 var myArray = [3, 8, 4, 9, 7, 6];
 
-myArray[2]; //will returns 4.
+myArray[2]; //will return 4.
 
 myArray[4]; //will returns 7
 
